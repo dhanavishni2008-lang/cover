@@ -20,10 +20,10 @@ body {
 }
 
 .border {
-    border: 2px solid BLACK;
-    margin: 30px;
-    height: 87%;
-    padding: 10px;
+    border: 4px solid BLACK;
+    margin: 25px;
+    height: 85%;
+    padding: 15px;
     position: relative;
 }
 
@@ -64,7 +64,7 @@ h1 {
 .left p {
     position: relative;
     top: 240px;
-    right: 100px;
+    right:50px;
     font-size: 20px;
     margin-top: 5px;
 }

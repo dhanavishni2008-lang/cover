@@ -171,7 +171,7 @@ h1 {
 ````
 
 ## OUTPUT:
-![alt text](<Screenshot (54).png>)
+![alt text](<Screenshot (55).png>)
 
 
 ## RESULT:
