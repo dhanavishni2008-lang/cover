@@ -61,10 +61,6 @@ book.html
                     <p>SEC</p>
                 </div>
             </div>
-
-        </div>
-        <hr class="line">
-        <div class="div">
         </div>
     </div>
 </body>
